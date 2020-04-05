@@ -21,4 +21,6 @@ $_CONFIG[0]['gl_db_pass'] = '';
 $_CONFIG[0]['gl_db_name'] = 'student-connect';
 $_CONFIG[0]['gl_db_prefix'] = '';
 
+$notye = "chetan chachare";
+
 ?>
