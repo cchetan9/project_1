@@ -23,4 +23,6 @@ $_CONFIG[0]['gl_db_prefix'] = '';
 
 $notye = "chetan chachare";
 
+$notr = "chetahncahchqafer";
+
 ?>
